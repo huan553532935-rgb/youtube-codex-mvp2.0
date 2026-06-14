@@ -1,0 +1,11 @@
+.env.local
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+logs/*.log
+data/*.json
+reports/*.xlsx
+!data/.gitkeep
+!reports/.gitkeep
